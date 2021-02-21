@@ -1,0 +1,3 @@
+Hello, Maintenance Engineer!
+
+As Maintenance Engineer, you have access to the zoo's facilities records.  This allows you to view floor plans and inventory of supplies.
